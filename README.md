@@ -26,5 +26,15 @@ The segment patterns depend on the display type, such as common-anode or common-
 ## 📈 Learning Progress
 This project is part of my ongoing Embedded Systems learning journey. I'm practicing microcontroller interfacing, Embedded C programming, and circuit simulation.
 
+## 🔌 Circuit Diagram
+
+The following diagram shows the hardware connections between the PIC18F4580 microcontroller and the 7-segment display.
+
+![PIC18F4580 7-Segment Circuit](7-segment-circuit.png)
+
+## 🖥️ Simulation Output
+
+![7-Segment Display Simulation](7-segment-simulation.png)
+
 ## 👨‍💻 Author
 Piyush Gondane
