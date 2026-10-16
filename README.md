@@ -30,11 +30,11 @@ This project is part of my ongoing Embedded Systems learning journey. I'm practi
 
 The following diagram shows the hardware connections between the PIC18F4580 microcontroller and the 7-segment display.
 
-![PIC18F4580 7-Segment Circuit](7-segment-circuit.png)
+![PIC18F4580 7-Segment Circuit](7-Segment-Circuit.png)
 
 ## 🖥️ Simulation Output
 
-![7-Segment Display Simulation](7-segment-simulation.png)
+![7-Segment Display Simulation](7-Segment-Circuit.png)
 
 ## 👨‍💻 Author
 Piyush Gondane
